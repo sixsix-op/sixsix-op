@@ -3,6 +3,13 @@
   <!-- 活泼可爱的顶图 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20sixsix-op&fontSize=50&fontAlignY=35&animation=twinkling&desc=Everything%20wins%20✨&descAlignY=55&descAlign=62" />
 
+  <!-- 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
+  </picture>
+
   <div>&nbsp;</div>
   <!-- 个人资料徽标 -->
   <div>
@@ -11,13 +18,6 @@
   </div>
   
   <div>&nbsp;</div>
-
-  <!-- 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
-  </picture>
 
 </div>
 
