@@ -3,9 +3,7 @@
   <!-- 活泼可爱的顶图 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20sixsix-op&fontSize=50&fontAlignY=35&animation=twinkling&desc=Everything%20wins%20✨&descAlignY=55&descAlign=62" />
 
-
   <div>&nbsp;</div>
-
   <!-- 个人资料徽标 -->
   <div>
     <img src="https://img.shields.io/badge/School-HIT-01529b?style=flat-square&logo=OpenAPI-Initiative&logoColor=white" alt="School" />&emsp;
@@ -40,7 +38,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&emsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&emsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&emsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />&emsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />&emsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&emsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&emsp;
+  <img src="https://img.shields.io/badge/UI_Design-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 ---
