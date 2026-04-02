@@ -13,13 +13,14 @@
   
   <div>&nbsp;</div>
 
-   <!-- 贪吃蛇代码贡献图 -->
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- 提示：需要配置 Github Action 生成相关 svg 后才能正常显示 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" srcset="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sixsix-op/sixsix-op/output/github-contribution-grid-snake.svg">
   </picture>
-  
+
 </div>
 
 # 🌸 Hello, World!
@@ -38,25 +39,30 @@
 
 <div align="center">
 
-  <!-- GitHub 基础数据和常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sixsix-op&show_icons=true&hide_border=true&include_all_commits=true&theme=radical&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixsix-op&layout=compact&hide_border=true&theme=radical&bg_color=00000000" />
-  
-  <div>&nbsp;</div>
+<!-- metrics 基础资料 -->
+<img src="https://raw.githubusercontent.com/sixsix-op/sixsix-op/main/github-metrics.svg" />
+
+<!-- GitHub 基础数据统计 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sixsix-op&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+
+<!-- 常用语言统计 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sixsix-op&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<!-- 连续提交天数统计 -->
 
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sixsix-op&theme=catppuccin_latte&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=sixsix-op&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sixsix-op&theme=catppuccin_latte&hide_border=true&hide_background=true" />
+    <img src="https://streak-stats.demolab.com/?user=sixsix-op&theme=radical&hide_border=true&hide_background=true" />
   </picture>
   
   <div>&nbsp;</div>
 
   <!-- GitHub Activity Graph GitHub 活动图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=tokyo-night&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=buefy&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=tokyo-night&hide_border=true&hide_bg=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=buefy&hide_border=true&hide_bg=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixsix-op&theme=tokyo-night&hide_border=true&hide_bg=true" />
   </picture>
 
 </div>
